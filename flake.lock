@@ -57,6 +57,44 @@
         "type": "github"
       }
     },
+    "devshell_4": {
+      "inputs": {
+        "flake-utils": "flake-utils_7",
+        "nixpkgs": "nixpkgs_7"
+      },
+      "locked": {
+        "lastModified": 1655976588,
+        "narHash": "sha256-VreHyH6ITkf/1EX/8h15UqhddJnUleb0HgbC3gMkAEQ=",
+        "owner": "numtide",
+        "repo": "devshell",
+        "rev": "899ca4629020592a13a46783587f6e674179d1db",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "devshell",
+        "type": "github"
+      }
+    },
+    "devshell_5": {
+      "inputs": {
+        "flake-utils": "flake-utils_9",
+        "nixpkgs": "nixpkgs_9"
+      },
+      "locked": {
+        "lastModified": 1655976588,
+        "narHash": "sha256-VreHyH6ITkf/1EX/8h15UqhddJnUleb0HgbC3gMkAEQ=",
+        "owner": "numtide",
+        "repo": "devshell",
+        "rev": "899ca4629020592a13a46783587f6e674179d1db",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "devshell",
+        "type": "github"
+      }
+    },
     "flake-compat": {
       "flake": false,
       "locked": {
@@ -105,6 +143,38 @@
         "type": "github"
       }
     },
+    "flake-compat_4": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1650374568,
+        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E=",
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "rev": "b4a34015c698c7793d592d66adbab377907a2be8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "type": "github"
+      }
+    },
+    "flake-compat_5": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1650374568,
+        "narHash": "sha256-Z+s0J8/r907g149rllvwhb4pKi8Wam5ij0st8PwAh+E=",
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "rev": "b4a34015c698c7793d592d66adbab377907a2be8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "type": "github"
+      }
+    },
     "flake-utils": {
       "locked": {
         "lastModified": 1642700792,
@@ -120,13 +190,28 @@
         "type": "github"
       }
     },
-    "flake-utils_2": {
+    "flake-utils_10": {
       "locked": {
         "lastModified": 1656065134,
         "narHash": "sha256-oc6E6ByIw3oJaIyc67maaFcnjYOz1mMcOtHxbEf9NwQ=",
         "owner": "numtide",
         "repo": "flake-utils",
         "rev": "bee6a7250dd1b01844a2de7e02e4df7d8a0a206c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "flake-utils_2": {
+      "locked": {
+        "lastModified": 1656928814,
+        "narHash": "sha256-RIFfgBuKz6Hp89yRr7+NR5tzIAbn52h8vT6vXkYjZoM=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "7e2a3b3dfd9af950a856d66b0a7d01e3c18aa249",
         "type": "github"
       },
       "original": {
@@ -195,6 +280,51 @@
         "type": "github"
       }
     },
+    "flake-utils_7": {
+      "locked": {
+        "lastModified": 1642700792,
+        "narHash": "sha256-XqHrk7hFb+zBvRg6Ghl+AZDq03ov6OshJLiSWOoX5es=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "846b2ae0fc4cc943637d3d1def4454213e203cba",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "flake-utils_8": {
+      "locked": {
+        "lastModified": 1656065134,
+        "narHash": "sha256-oc6E6ByIw3oJaIyc67maaFcnjYOz1mMcOtHxbEf9NwQ=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "bee6a7250dd1b01844a2de7e02e4df7d8a0a206c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "flake-utils_9": {
+      "locked": {
+        "lastModified": 1642700792,
+        "narHash": "sha256-XqHrk7hFb+zBvRg6Ghl+AZDq03ov6OshJLiSWOoX5es=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "846b2ae0fc4cc943637d3d1def4454213e203cba",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1643381941,
@@ -211,13 +341,29 @@
         "type": "github"
       }
     },
-    "nixpkgs_2": {
+    "nixpkgs_10": {
       "locked": {
         "lastModified": 1656239181,
         "narHash": "sha256-wW1xRFBn376yGloXZ4QzBE4hjipMawpV18Lshd9QSPw=",
         "owner": "nixos",
         "repo": "nixpkgs",
         "rev": "f2537a505d45c31fe5d9c27ea9829b6f4c4e6ac5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_2": {
+      "locked": {
+        "lastModified": 1658465217,
+        "narHash": "sha256-f2Zyt7TsDZ1TK3Cu6ZtzWoWQ4nnQq07uXTPxW26rIQY=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "2d372784634e224c5a629d80a19705af655fbc7d",
         "type": "github"
       },
       "original": {
@@ -291,6 +437,54 @@
         "type": "github"
       }
     },
+    "nixpkgs_7": {
+      "locked": {
+        "lastModified": 1643381941,
+        "narHash": "sha256-pHTwvnN4tTsEKkWlXQ8JMY423epos8wUOhthpwJjtpc=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "5efc8ca954272c4376ac929f4c5ffefcc20551d5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixpkgs-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_8": {
+      "locked": {
+        "lastModified": 1655983783,
+        "narHash": "sha256-0h1FzkYWei24IdKNpCX93onkF/FMiXQG8SdEbTc0r8A=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "6141b8932a5cf376fe18fcd368cecd9ad946cb68",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_9": {
+      "locked": {
+        "lastModified": 1643381941,
+        "narHash": "sha256-pHTwvnN4tTsEKkWlXQ8JMY423epos8wUOhthpwJjtpc=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "5efc8ca954272c4376ac929f4c5ffefcc20551d5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixpkgs-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-algorithm": {
       "flake": false,
       "locked": {
@@ -308,6 +502,22 @@
       }
     },
     "pkg-satysfi-algorithm_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1653060170,
+        "narHash": "sha256-q6am7go4fNLfQVnupX0wav1esZGq0UG/UG/j5J6UfCQ=",
+        "owner": "pickoba",
+        "repo": "satysfi-algorithm",
+        "rev": "4fd8d4d3a0f1576929a890ca5aa68d54b85fe91e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "pickoba",
+        "repo": "satysfi-algorithm",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-algorithm_3": {
       "flake": false,
       "locked": {
         "lastModified": 1653060170,
@@ -355,6 +565,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-azmath_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1652616966,
+        "narHash": "sha256-PGSyDXfxpB+ayAF46R1E+llnX8OllkiEzyscsN0qw9s=",
+        "owner": "monaqa",
+        "repo": "satysfi-azmath",
+        "rev": "67bf1e0ad09d47c0211516c91f8746f45165edf7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-azmath",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-base": {
       "flake": false,
       "locked": {
@@ -372,6 +598,22 @@
       }
     },
     "pkg-satysfi-base_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1643503102,
+        "narHash": "sha256-nPsuVsYmo3d1XrQFoNuJ+PV5cMkJmFwGpeO8bcUZOEY=",
+        "owner": "nyuichi",
+        "repo": "satysfi-base",
+        "rev": "603fedeea57816e1b33de488fe92effc45b4c625",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nyuichi",
+        "repo": "satysfi-base",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-base_3": {
       "flake": false,
       "locked": {
         "lastModified": 1643503102,
@@ -419,6 +661,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-bibyfi_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1590641889,
+        "narHash": "sha256-ppX4i5924F/DTlSQmloXdGOeCaDMJJKq3M/NE2khVvA=",
+        "owner": "namachan10777",
+        "repo": "BiByFi",
+        "rev": "fa9a91d8d9ee3853f56060494452bcfe3b690639",
+        "type": "github"
+      },
+      "original": {
+        "owner": "namachan10777",
+        "repo": "BiByFi",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-chemfml": {
       "flake": false,
       "locked": {
@@ -436,6 +694,22 @@
       }
     },
     "pkg-satysfi-chemfml_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1654260031,
+        "narHash": "sha256-JPfcEN13NWDCtb9lyzdn9IB9/UoLVBukvqIosKOgk5k=",
+        "owner": "gw31415",
+        "repo": "satysfi-chemfml",
+        "rev": "9bb2aeeebddacf68ccae38cf85f53dd5e9208ce5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "gw31415",
+        "repo": "satysfi-chemfml",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-chemfml_3": {
       "flake": false,
       "locked": {
         "lastModified": 1654260031,
@@ -483,6 +757,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-class-jlreq_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1637893136,
+        "narHash": "sha256-/tKYBqcbxB/XviI8dg48eFyT8Gtwlpqga5V9toQ4lSs=",
+        "owner": "abenori",
+        "repo": "satysfi-class-jlreq",
+        "rev": "4090898d86952416e343f36f20e183abc0fbba29",
+        "type": "github"
+      },
+      "original": {
+        "owner": "abenori",
+        "repo": "satysfi-class-jlreq",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-class-slydifi": {
       "flake": false,
       "locked": {
@@ -500,6 +790,22 @@
       }
     },
     "pkg-satysfi-class-slydifi_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1651152178,
+        "narHash": "sha256-y/BfFZ8/Ytu9RWxW4S+WkKIF0qGum1W4V7gfKNzyfC0=",
+        "owner": "monaqa",
+        "repo": "slydifi",
+        "rev": "e9d0f57c9e27c77888582eaa9ad8b9fd35a12828",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "slydifi",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-class-slydifi_3": {
       "flake": false,
       "locked": {
         "lastModified": 1651152178,
@@ -547,6 +853,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-code-printer_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1653883806,
+        "narHash": "sha256-QyA8XJKgZDQUEMyDfFJiDra9jYZ5+E3gYSdNTmTEYGw=",
+        "owner": "puripuri2100",
+        "repo": "satysfi-code-printer",
+        "rev": "affa4d7a84a43a36e5388324fd3a3bd9e99da077",
+        "type": "github"
+      },
+      "original": {
+        "owner": "puripuri2100",
+        "repo": "satysfi-code-printer",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-derive": {
       "flake": false,
       "locked": {
@@ -564,6 +886,22 @@
       }
     },
     "pkg-satysfi-derive_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1609581687,
+        "narHash": "sha256-E2Is9WDO/psnWEL1Nt43QkkSPZOL3uT0Xm54y1jZgfM=",
+        "owner": "yabaitechtokyo",
+        "repo": "satysfi-derive",
+        "rev": "ea6bad8093128b1117feb8430a290d5439866166",
+        "type": "github"
+      },
+      "original": {
+        "owner": "yabaitechtokyo",
+        "repo": "satysfi-derive",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-derive_3": {
       "flake": false,
       "locked": {
         "lastModified": 1609581687,
@@ -611,6 +949,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-easytable_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1651278826,
+        "narHash": "sha256-my6WLJrXeHSDfWrP4STAnr279kHNfLeKv5KIvbLc/s8=",
+        "owner": "monaqa",
+        "repo": "satysfi-easytable",
+        "rev": "14e819ae44bc8ea01a2d297de2497086e9ced45d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-easytable",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-enumitem": {
       "flake": false,
       "locked": {
@@ -628,6 +982,22 @@
       }
     },
     "pkg-satysfi-enumitem_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1637669402,
+        "narHash": "sha256-daCBZg9ekY1/o+ey4hKjnrtlxrRYXKOb5huxf+0CsS0=",
+        "owner": "monaqa",
+        "repo": "satysfi-enumitem",
+        "rev": "f2444a530aa2082d912d9ffdc45341639c9d3b54",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-enumitem",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-enumitem_3": {
       "flake": false,
       "locked": {
         "lastModified": 1637669402,
@@ -675,6 +1045,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-figbox_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1650114119,
+        "narHash": "sha256-2S0Mwh90QqxcMI/iG28VPS3xW39zJmibDQ3QeeDGUvc=",
+        "owner": "monaqa",
+        "repo": "satysfi-figbox",
+        "rev": "b2fa8a47eaf8e54462d1838ec374ce505a4af706",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-figbox",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-fonts-junicode": {
       "flake": false,
       "locked": {
@@ -692,6 +1078,22 @@
       }
     },
     "pkg-satysfi-fonts-junicode_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1653109723,
+        "narHash": "sha256-id4xQWsVpYjYxyVXQHhMMOWv0YqzvmJ+sYS2NrhTVi8=",
+        "owner": "na4zagin3",
+        "repo": "SATySFi-fonts-junicode",
+        "rev": "331911ba9102d7cc489549a576a60e33affacc76",
+        "type": "github"
+      },
+      "original": {
+        "owner": "na4zagin3",
+        "repo": "SATySFi-fonts-junicode",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-fonts-junicode_3": {
       "flake": false,
       "locked": {
         "lastModified": 1653109723,
@@ -739,6 +1141,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-fss_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1621524057,
+        "narHash": "sha256-tS48saaPxIsqamNdHkiwkwGQ8bE5FbYRQqEJjRTqCQY=",
+        "owner": "na4zagin3",
+        "repo": "satysfi-fss",
+        "rev": "1021e7c9e2a7319aac06f935c7bad897caadd178",
+        "type": "github"
+      },
+      "original": {
+        "owner": "na4zagin3",
+        "repo": "satysfi-fss",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-karnaugh": {
       "flake": false,
       "locked": {
@@ -756,6 +1174,22 @@
       }
     },
     "pkg-satysfi-karnaugh_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1579355488,
+        "narHash": "sha256-guVblr9eu0HgQo8zUth3tPVrIDyu4yF2CgzhUnXsop0=",
+        "owner": "takagiy",
+        "repo": "satysfi-karnaugh",
+        "rev": "ed38a3ec2afa09a383a2b4e9068ece4dd9bba715",
+        "type": "github"
+      },
+      "original": {
+        "owner": "takagiy",
+        "repo": "satysfi-karnaugh",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-karnaugh_3": {
       "flake": false,
       "locked": {
         "lastModified": 1579355488,
@@ -803,6 +1237,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-pagenumber_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1629364140,
+        "narHash": "sha256-6dUsx9dfxhpPF1NVcafenoi81uH7oacODeBeHIyfz5A=",
+        "owner": "abenori",
+        "repo": "satysfi-pagenumber",
+        "rev": "dd5b7f81df40fbf2a14cdc159138cebb50b3bd71",
+        "type": "github"
+      },
+      "original": {
+        "owner": "abenori",
+        "repo": "satysfi-pagenumber",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-pagestyle": {
       "flake": false,
       "locked": {
@@ -820,6 +1270,22 @@
       }
     },
     "pkg-satysfi-pagestyle_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1629364940,
+        "narHash": "sha256-tXtTyDlwtLHNjCthGapYwXlttXT37JwvUHf8Snibrac=",
+        "owner": "abenori",
+        "repo": "satysfi-pagestyle",
+        "rev": "868141087d111c67893b597a21a6a287afc063ea",
+        "type": "github"
+      },
+      "original": {
+        "owner": "abenori",
+        "repo": "satysfi-pagestyle",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-pagestyle_3": {
       "flake": false,
       "locked": {
         "lastModified": 1629364940,
@@ -867,6 +1333,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-railway_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1622980701,
+        "narHash": "sha256-DeMNMWeOLTUFXidi7sfDl5gsAdi+vBE5zJmTshjfieI=",
+        "owner": "monaqa",
+        "repo": "satysfi-railway",
+        "rev": "cbefb0489993a8f1c695e3e50a6d0266841402c2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-railway",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-ruby": {
       "flake": false,
       "locked": {
@@ -899,6 +1381,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-ruby_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1601469764,
+        "narHash": "sha256-GEOXhem78zZqtjx4I1iXNtiA+wy6AgU6Y1rJZZ3hLEA=",
+        "owner": "puripuri2100",
+        "repo": "SATySFi-ruby",
+        "rev": "3f90a25d7c5ee66839fcae3a7d128fb826fee962",
+        "type": "github"
+      },
+      "original": {
+        "owner": "puripuri2100",
+        "repo": "SATySFi-ruby",
+        "type": "github"
+      }
+    },
     "pkg-satysfi-sno2wman": {
       "inputs": {
         "devshell": "devshell_2",
@@ -906,6 +1404,28 @@
         "flake-utils": "flake-utils_4",
         "nixpkgs": "nixpkgs_4",
         "satyxin": "satyxin"
+      },
+      "locked": {
+        "lastModified": 1658555578,
+        "narHash": "sha256-qrcOHi/81R7GV5g2btDEd+X9DSrDwehncKPTziDFivM=",
+        "owner": "sno2wman",
+        "repo": "satysfi-sno2wman",
+        "rev": "8c26982c4c4f831e0daa2723d555b23790166ba6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "sno2wman",
+        "repo": "satysfi-sno2wman",
+        "type": "github"
+      }
+    },
+    "pkg-satysfi-sno2wman_2": {
+      "inputs": {
+        "devshell": "devshell_4",
+        "flake-compat": "flake-compat_4",
+        "flake-utils": "flake-utils_8",
+        "nixpkgs": "nixpkgs_8",
+        "satyxin": "satyxin_2"
       },
       "locked": {
         "lastModified": 1658516098,
@@ -953,6 +1473,22 @@
         "type": "github"
       }
     },
+    "pkg-satysfi-uline_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1612656852,
+        "narHash": "sha256-94lChvMIkuIFHJgPoMbQCkivIGwz5EieCOKpcTaKThc=",
+        "owner": "puripuri2100",
+        "repo": "SATySFi-uline",
+        "rev": "a5de5851100d02d2533d7744cdd529f43e0302a9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "puripuri2100",
+        "repo": "SATySFi-uline",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
         "devshell": "devshell",
@@ -979,10 +1515,10 @@
         "pkg-satysfi-railway": "pkg-satysfi-railway",
         "pkg-satysfi-ruby": "pkg-satysfi-ruby",
         "pkg-satysfi-sno2wman": "pkg-satysfi-sno2wman",
-        "pkg-satysfi-uline": "pkg-satysfi-uline_2",
-        "satysfi": "satysfi_2",
-        "satysfi-formatter": "satysfi-formatter_2",
-        "satysfi-language-server": "satysfi-language-server_2"
+        "pkg-satysfi-uline": "pkg-satysfi-uline_3",
+        "satysfi": "satysfi_3",
+        "satysfi-formatter": "satysfi-formatter_3",
+        "satysfi-language-server": "satysfi-language-server_3"
       }
     },
     "satysfi": {
@@ -1033,6 +1569,22 @@
         "type": "github"
       }
     },
+    "satysfi-formatter_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1656674848,
+        "narHash": "sha256-ThbWObYxA/PHVhHt5IC/b8urzDcrlSNU/hcp5FuZxaU=",
+        "owner": "usagrada",
+        "repo": "satysfi-formatter",
+        "rev": "03e3a05d6b90ac8a5daac87c4cd62004acccfe4b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "usagrada",
+        "repo": "satysfi-formatter",
+        "type": "github"
+      }
+    },
     "satysfi-language-server": {
       "flake": false,
       "locked": {
@@ -1065,7 +1617,39 @@
         "type": "github"
       }
     },
+    "satysfi-language-server_3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1650032658,
+        "narHash": "sha256-SkMP33VOKMDgCuxWWZhsITUpwZo13NPDRO0nuHYIBN8=",
+        "owner": "monaqa",
+        "repo": "satysfi-language-server",
+        "rev": "c48b59c248b5e4deb6dc9cd6a2a0df27af53bbce",
+        "type": "github"
+      },
+      "original": {
+        "owner": "monaqa",
+        "repo": "satysfi-language-server",
+        "type": "github"
+      }
+    },
     "satysfi_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1653979685,
+        "narHash": "sha256-fROHHrjbO+SAr1ONntTB3lDH+cDLuG/Uq9lgVmhQWUc=",
+        "owner": "gfngfn",
+        "repo": "SATySFi",
+        "rev": "133dcfb244774db14c19241bc85fc4186c297c89",
+        "type": "github"
+      },
+      "original": {
+        "owner": "gfngfn",
+        "repo": "SATySFi",
+        "type": "github"
+      }
+    },
+    "satysfi_3": {
       "flake": false,
       "locked": {
         "lastModified": 1653979685,
@@ -1106,6 +1690,51 @@
         "pkg-satysfi-pagestyle": "pkg-satysfi-pagestyle_2",
         "pkg-satysfi-railway": "pkg-satysfi-railway_2",
         "pkg-satysfi-ruby": "pkg-satysfi-ruby_2",
+        "pkg-satysfi-sno2wman": "pkg-satysfi-sno2wman_2",
+        "pkg-satysfi-uline": "pkg-satysfi-uline_2",
+        "satysfi": "satysfi_2",
+        "satysfi-formatter": "satysfi-formatter_2",
+        "satysfi-language-server": "satysfi-language-server_2"
+      },
+      "locked": {
+        "lastModified": 1658554815,
+        "narHash": "sha256-3rY3+RnZfEqILcoY3qVHKY6lScWNNAChQg6PWk+T0p8=",
+        "owner": "SnO2WMaN",
+        "repo": "satyxin",
+        "rev": "56570920ae6b101cdf91c4cbc04dd37015f400c1",
+        "type": "github"
+      },
+      "original": {
+        "owner": "SnO2WMaN",
+        "repo": "satyxin",
+        "type": "github"
+      }
+    },
+    "satyxin_2": {
+      "inputs": {
+        "devshell": "devshell_5",
+        "flake-compat": "flake-compat_5",
+        "flake-utils": "flake-utils_10",
+        "nixpkgs": "nixpkgs_10",
+        "pkg-satysfi-algorithm": "pkg-satysfi-algorithm_3",
+        "pkg-satysfi-azmath": "pkg-satysfi-azmath_3",
+        "pkg-satysfi-base": "pkg-satysfi-base_3",
+        "pkg-satysfi-bibyfi": "pkg-satysfi-bibyfi_3",
+        "pkg-satysfi-chemfml": "pkg-satysfi-chemfml_3",
+        "pkg-satysfi-class-jlreq": "pkg-satysfi-class-jlreq_3",
+        "pkg-satysfi-class-slydifi": "pkg-satysfi-class-slydifi_3",
+        "pkg-satysfi-code-printer": "pkg-satysfi-code-printer_3",
+        "pkg-satysfi-derive": "pkg-satysfi-derive_3",
+        "pkg-satysfi-easytable": "pkg-satysfi-easytable_3",
+        "pkg-satysfi-enumitem": "pkg-satysfi-enumitem_3",
+        "pkg-satysfi-figbox": "pkg-satysfi-figbox_3",
+        "pkg-satysfi-fonts-junicode": "pkg-satysfi-fonts-junicode_3",
+        "pkg-satysfi-fss": "pkg-satysfi-fss_3",
+        "pkg-satysfi-karnaugh": "pkg-satysfi-karnaugh_3",
+        "pkg-satysfi-pagenumber": "pkg-satysfi-pagenumber_3",
+        "pkg-satysfi-pagestyle": "pkg-satysfi-pagestyle_3",
+        "pkg-satysfi-railway": "pkg-satysfi-railway_3",
+        "pkg-satysfi-ruby": "pkg-satysfi-ruby_3",
         "pkg-satysfi-uline": "pkg-satysfi-uline",
         "satysfi": "satysfi",
         "satysfi-formatter": "satysfi-formatter",
